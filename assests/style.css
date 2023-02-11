@@ -1,0 +1,40 @@
+body{
+    background-color:whitesmoke;
+    text-align: center;
+    padding: 10% 25%;
+    padding-top: 5%;
+}
+
+.card-header{
+    font-size: larger;
+    font-weight: bold;
+    /* background-color: rgb(7, 102, 211); */
+    /* color: white; */
+}
+
+.btn {
+    margin-top: 15px;
+    background-color: rgb(255, 153, 0);
+}
+img{
+    width: 100px;
+    margin: 1%;
+}
+.btn:hover{
+    background-color: white;
+    border: solid 1px rgb(255, 153, 0);
+}
+
+.i1 {
+    border-radius: 0;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.i2{
+    border-radius: 0;
+}
+.i3{
+    border-radius: 0;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
